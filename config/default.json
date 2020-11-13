@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://yuriy:1234qwer@cluster0.zehaa.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "secret code for learn",
+  "baseUrl": "http://localhost:5000"
+}
